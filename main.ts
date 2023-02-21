@@ -10,5 +10,21 @@ basic.forever(function () {
         luz_x = 0
     } else if (x < -200) {
     	
+    } else if (x < 0) {
+    	
+    } else if (x < 200) {
+    	
+    } else if (x < 700) {
+    	
+    } else if (y < -700) {
+    	
+    } else if (y < -200) {
+    	
+    } else if (y < 0) {
+    	
+    } else if (y < 200) {
+    	
+    } else if (y < 700) {
+    	
     }
 })
